@@ -40,5 +40,3 @@ Complete implementation of a game's main menu system according to technical spec
 2. Open in Unity 2022.3+
 3. Load scene: `Assets/Scenes/MainMenuScene.unity`
 4. Press Play
-
-## 📁 Project Structure
